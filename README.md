@@ -1,4 +1,4 @@
-# ArewaDS-Tessting
+# ArewaDS-Testing
 
 A beginner-friendly learning repository for **Python** and **Machine Learning**.
 
